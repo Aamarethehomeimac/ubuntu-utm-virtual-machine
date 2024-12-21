@@ -12,6 +12,6 @@ Instructions:
 2. Downlaod UTM from the manual ("Download") Button
 3. Install UTM by dragging the UTM (image will be below) app (left) into the Apllications folder (right)
 <img width="772" alt="Screenshot 2024-12-10 at 18 37 42" src="https://github.com/user-attachments/assets/c4db889f-e05c-460e-8137-c80621555985">
--------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 4. Lauch UTM from the Lauchpad in the macOS dock
 5. Click "Create a new Virtual Machine" button on the UTM welocming page
