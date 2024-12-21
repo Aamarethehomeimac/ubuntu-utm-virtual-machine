@@ -14,4 +14,5 @@ Instructions:
 <img width="772" alt="Screenshot 2024-12-10 at 18 37 42" src="https://github.com/user-attachments/assets/c4db889f-e05c-460e-8137-c80621555985">
 
 
-4. 
+4. Lauch UTM and in the middle you should see this screen: 
+<img width="548" alt="Screenshot 2024-12-21 at 09 37 34" src="https://github.com/user-attachments/assets/7e1585a2-9728-4c2d-b95c-07a5c63956cd" />
