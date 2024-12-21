@@ -17,11 +17,8 @@
 Instructions:
 1. Download either Ubuntu 24.04.1 LTS or 24.10 (the latter will be the latest version).
 2. Download UTM from the website’s “Download” button.
-3. Install UTM by dragging the UTM (image below) app (left) into the Applications folder (right), then launch the app
-
-<img width=“772” alt=“Screenshot 2024-12-10 at 18 37 42” src=“https://github.com/user-attachments/assets/c4db889f-e05c-460e-8137-c80621555985”>
-
-
+2a. Open the UTM.dmg and a window will pop up.
+3. Install UTM by dragging the UTM  app  into the Applications folder , then launch the app
 5. Visit Ksk Royal’s video linked here (he’s credited in this tutorial and acknowledged in the GitHub repository): https://www.youtube.com/watch?v=JrNS3brSnmA&t=355s
 6. Carefully follow his instructions. You can skip the UTM Install part, but incude the VM setup and Ubuntu install.
 7. Continue following his instructions, and soon, you’ll be greeted with a beautiful Ubuntu desktop.
