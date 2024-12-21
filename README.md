@@ -19,4 +19,6 @@ Instructions:
 
 
 5. Go to my link: https://drive.google.com/file/d/12sgqwkILnYrQSwefy-77aBYj6VCBGSMp/view?usp=drive_link and in the
-top right corner a arrow pointing down to a slightly bent platform willa appear near a buch of buttons.
+top right corner a arrow pointing down to a slightly bent platform willa appear near a bunch of buttons. Click the button.
+If confirmation button shows Click "OK" or "Downlaod Anyway" to downlaod the ZIP file.
+
