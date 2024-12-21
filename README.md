@@ -12,7 +12,7 @@
 **Note:** If you have a recovery macOS (TM) USB, you can use Ubuntu on bare metal.
 
 **Thanks to KSK ROYAL for the incredible video in the tutorial!**
-—————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————————————
 
 Instructions:
 1. Download either Ubuntu 24.04.1 LTS or 24.10 (the latter will be the latest version).
