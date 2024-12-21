@@ -16,3 +16,7 @@ Instructions:
 
 4. Lauch UTM and in the middle you should see this screen: 
 <img width="548" alt="Screenshot 2024-12-21 at 09 37 34" src="https://github.com/user-attachments/assets/7e1585a2-9728-4c2d-b95c-07a5c63956cd" />
+
+
+5. Go to my link: https://drive.google.com/file/d/12sgqwkILnYrQSwefy-77aBYj6VCBGSMp/view?usp=drive_link and in the
+top right corner a arrow pointing down to a slightly bent platform willa appear near a buch of buttons.
