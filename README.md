@@ -1,6 +1,6 @@
 # Ubuntu UTM Virtual Machine for macOS
 
-**WARNING:** This guide was exclusively tested with UTM. Attempting to use it on a real metal computer could potentially cause system damage, especially if you lack the necessary computer knowledge. The creator of this guide is not responsible for any damage resulting from reckless use. If damage occurs, you will be solely responsible for purchasing a new computer. If you damage your system, the most affordable Macbook as of December 2024 is the MacBook Air M3, priced at $1099. Even the most economical option is quite expensive, so it’s advisable to consider suing UTM if you don’t have more than $1000.
+**WARNING:** This guide was exclusively tested with UTM. Attempting to use it on a real metal computer could potentially cause system damage, especially if you lack the necessary computer knowledge. The creator of this guide is not responsible for any damage resulting from reckless use. If damage occurs, you will be solely responsible for purchasing a new computer. If you damage your system, the most affordable Macbook as of December 2024 is the MacBook Air M3, priced at $1099. Even the most economical option is quite expensive, so it’s advisable to consider using UTM if you don’t have more than $1000.
 
 **To set up the virtual machine, you’ll require:**
 
