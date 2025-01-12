@@ -16,9 +16,7 @@
 
 Instructions:
 1. Download either Ubuntu 24.04.1 LTS or 24.10 (the latter will be the latest version).
-2. Download UTM from the website’s “Download” button.
-
-2a. Open the UTM.dmg and a window will pop up.
+2. Download UTM from the website’s “Download” button. After doenlaod open the UTM.dmg file and a window will pop up
 3. Install UTM by dragging the UTM  app  into the Applications folder , then launch the app
 5. Visit Ksk Royal’s video linked here (he’s credited in this tutorial and acknowledged in the GitHub repository): https://www.youtube.com/watch?v=JrNS3brSnmA&t=355s
 6. Carefully follow his instructions. You can skip the UTM Install part, but incude the VM setup and Ubuntu install.
