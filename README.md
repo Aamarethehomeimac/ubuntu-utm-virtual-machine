@@ -6,7 +6,7 @@
 
 - A Mac M1, M2, M3, M4 (PRO and ULTRA models are also supported).
 - UTM: Download it from https://mac.getutm.app/.
-- Ubuntu Server ARM: Download it from https://ubuntu.com/download/server/arm.
+- Ubuntu ARM: Download it from https://ubuntu.com/download.
 - Approximately 20GB of free space is recommended.
 
 **Note:** If you have a recovery macOS (TM) USB, you can use Ubuntu on bare metal.
@@ -15,7 +15,7 @@
 ———————————————————————————————————————————————————————————
 
 Instructions:
-1. Download either Ubuntu 24.04.1 LTS or 24.10 (the latter will be the latest version).
+1. Download either Ubuntu 24.04.1 LTS or 24.10/25.04  (the latter will be the latest version).
 2. Download UTM from the website’s “Download” button. After doenlaod open the UTM.dmg file and a window will pop up
 3. Install UTM by dragging the UTM  app  into the Applications folder , then launch the app
 5. Visit Ksk Royal’s video linked here (he’s credited in this tutorial and acknowledged in the GitHub repository): https://www.youtube.com/watch?v=JrNS3brSnmA&t=355s
