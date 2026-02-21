@@ -7,7 +7,7 @@
 - A Mac M1, M2, M3, M4 (PRO and ULTRA models are also supported).
 - UTM: Download it from https://mac.getutm.app/.
 - Ubuntu ARM: Download it from https://ubuntu.com/download.
-- Approximately 20GB of free space is recommended.
+- Approximately 64GB of free space is recommended.
 
 **Note:** If you have a recovery macOS (TM) USB, you can use Ubuntu on bare metal.
 
